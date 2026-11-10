@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚖️ Dataset Putusan Narkotika dan Psikotropika
 
 **Pengadilan Negeri Kuala Kurun · Tahun Perkara 2023–2025**  
@@ -168,3 +169,6 @@ Keterbatasan dan tindak lanjut yang perlu diperhatikan:
 3. [Situs Resmi Pengadilan Negeri Kuala Kurun](https://www.pn-kualakurun.go.id/) — rujukan institusi pengadilan dan akses layanan informasi.
 
 Untuk penggunaan akademis, cantumkan sumber resmi dan nomor putusan yang dirujuk. Saat membutuhkan kepastian informasi perkara atau status BHT, lakukan verifikasi pada layanan resmi yang relevan.
+=======
+# Dataset-Narkotika_124_143
+>>>>>>> 85db3580cca1776bdfd11c8c607eb11100bb6742
