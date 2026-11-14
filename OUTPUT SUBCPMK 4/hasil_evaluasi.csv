@@ -1,0 +1,17 @@
+Praproses,Pembobotan,MAP,nDCG@10,R-Precision,MRR
+D. + Stemming (lengkap),BM25 berbobot bidang,0.8639,0.8943,0.809,0.8778
+C. + Normalisasi angka & varian,BM25 berbobot bidang,0.845,0.8842,0.7778,0.8778
+A. Dasar (casefolding + tokenisasi),BM25 berbobot bidang,0.8384,0.8786,0.7778,0.873
+B. + Stopword removal,BM25 berbobot bidang,0.8384,0.8786,0.7778,0.873
+A. Dasar (casefolding + tokenisasi),BM25,0.7396,0.7543,0.7186,0.8001
+B. + Stopword removal,BM25,0.7396,0.7538,0.7047,0.8018
+C. + Normalisasi angka & varian,BM25,0.7391,0.7538,0.7047,0.8007
+D. + Stemming (lengkap),BM25,0.7335,0.7497,0.6943,0.8007
+A. Dasar (casefolding + tokenisasi),TF-IDF + cosine,0.7273,0.7549,0.7118,0.838
+B. + Stopword removal,TF-IDF + cosine,0.7212,0.7507,0.6979,0.8377
+C. + Normalisasi angka & varian,TF-IDF + cosine,0.7196,0.7408,0.6979,0.8377
+D. + Stemming (lengkap),TF-IDF + cosine,0.7105,0.7222,0.6839,0.8378
+C. + Normalisasi angka & varian,TF mentah,0.2735,0.3065,0.2035,0.4543
+A. Dasar (casefolding + tokenisasi),TF mentah,0.2675,0.3001,0.2035,0.4362
+B. + Stopword removal,TF mentah,0.2675,0.3001,0.2035,0.4362
+D. + Stemming (lengkap),TF mentah,0.263,0.2771,0.1999,0.401
